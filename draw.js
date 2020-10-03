@@ -1,4 +1,4 @@
-et canvas = document.getElementById("pixel_canvas");
+let canvas = document.getElementById("pixel_canvas");
 let height = document.getElementById("input_height");
 let width = document.getElementById("input_width");
 let sizePicker = document.getElementById("sizePicker");
